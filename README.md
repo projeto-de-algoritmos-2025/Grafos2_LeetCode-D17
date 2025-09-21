@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Grafos2_LeetCode-D17
 
 **Número da Lista**: 2<br>
 **Conteúdo da Disciplina**: Grafos 2<br>
@@ -10,22 +10,29 @@
 | 22/1008300  |  Marcos Antonio Teles de Castilhos |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto possui como tema central a resolução de exercícios de programação competitiva com o tema de Grafos, utilizando a plataforma de juiz online LeetCode.
+
+## Exercícios
+
+| Exercício | Nível  | Vídeo Explicando |
+|---------|--------|------------------|
+|  |  |  |
+
+[Vídeo explicando todos os exercícios]()
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Exercício 01
+
+### Exercício 02
+
+### Exercício 03
+
+### Exercício 04
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++<br>
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## Verificação
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Para validar se a solução implementada está correta, submeta o código no **[LeetCode](https://leetcode.com/)** e verifique se o exercício foi aceito. Cada solução contém o link para a descrição completa do problema no próprio código-fonte.
