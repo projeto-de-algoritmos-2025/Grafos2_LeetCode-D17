@@ -22,7 +22,15 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 ## Screenshots
 
-### Exercício 01
+### Exercício 01 - [882. Reachable Nodes In Subdivided Graph](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode-D17/blob/master/882_Reachable_Nodes_In_Subdivided_Graph/solution.cpp) - Difícil
+
+<div align="center">
+  <img src="882_Reachable_Nodes_In_Subdivided_Graph/image.png" alt="Submissão LeetCode 882" />
+  <br/>
+  <a href="https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/submissions/1778556100">
+    Visualizar submissão do exercício 882
+  </a>
+</div>
 
 ### Exercício 02
 
