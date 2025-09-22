@@ -16,7 +16,7 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 | Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
-|  |  |  |
+| [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | Difícil | - |
 
 [Vídeo explicando todos os exercícios]()
 
