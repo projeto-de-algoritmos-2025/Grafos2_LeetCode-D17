@@ -33,7 +33,15 @@ O projeto possui como tema central a resolução de exercícios de programação
   </a>
 </div>
 
-### Exercício 02
+### Exercício 02 - [1584. Min Cost to Connect All Points](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode-D17/blob/master/1584_Min_Cost_to_Connect_All_Points/solution.cpp) - Médio
+
+<div align="center">
+  <img src="1584_Min_Cost_to_Connect_All_Points/image.png" alt="Submissão LeetCode 1584" />
+  <br/>
+  <a href="https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/1778566943">
+    Visualizar submissão do exercício 1584
+  </a>
+</div>
 
 ### Exercício 03
 
