@@ -17,6 +17,7 @@ O projeto possui como tema central a resolução de exercícios de programação
 | Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
 | [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | Difícil | - |
+| [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Médio | - |
 
 [Vídeo explicando todos os exercícios]()
 
