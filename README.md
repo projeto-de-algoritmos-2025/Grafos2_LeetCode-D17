@@ -16,12 +16,12 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 | Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
-| [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | Difícil | - |
-| [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Médio | - |
-| [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | Medio | - |
-| [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | Difícil | - |
+| [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | Difícil | [Vídeo](https://youtu.be/jdRSrnFY7b8?feature=shared) |
+| [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Médio | [Vídeo](https://youtu.be/jdRSrnFY7b8?feature=shared&t=128) |
+| [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | Médio | [Vídeo](https://youtu.be/jdRSrnFY7b8?feature=shared&t=236) |
+| [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | Difícil | [Vídeo](https://youtu.be/jdRSrnFY7b8?feature=shared&t=460) |
 
-[Vídeo explicando todos os exercícios]()
+[Vídeo explicando todos os exercícios](https://youtu.be/jdRSrnFY7b8)
 
 ## Screenshots
 
