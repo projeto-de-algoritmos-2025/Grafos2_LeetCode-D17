@@ -18,6 +18,8 @@ O projeto possui como tema central a resolução de exercícios de programação
 |---------|--------|------------------|
 | [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | Difícil | - |
 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Médio | - |
+| [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | Medio | - |
+| [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | Difícil | - |
 
 [Vídeo explicando todos os exercícios]()
 
@@ -43,9 +45,25 @@ O projeto possui como tema central a resolução de exercícios de programação
   </a>
 </div>
 
-### Exercício 03
+### Exercício 03 - [743. Network Delay Time](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode-D17/blob/master/743_Network_Delay_Time/solution.cpp) - Médio
 
-### Exercício 04
+<div align="center">
+  <img src="743_Network_Delay_Time\743_accepted.png" alt="Submissão LeetCode 743" />
+  <br/>
+  <a href="https://leetcode.com/problems/network-delay-time/submissions/1779299133/">
+    Visualizar submissão do exercício 743
+  </a>
+</div>
+
+### Exercício 04 - [778. Swim in Rising Water](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode-D17/blob/master/778_Swim_in_Rising_Water/solution.cpp) - Difícil
+
+<div align="center">
+  <img src="778_Swim_in_Rising_Water\778_accepted.png" alt="Submissão LeetCode 778" />
+  <br/>
+  <a href="https://leetcode.com/problems/swim-in-rising-water/submissions/1779416905/">
+    Visualizar submissão do exercício 778
+  </a>
+</div>
 
 ## Instalação 
 **Linguagem**: C++<br>
